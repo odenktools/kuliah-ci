@@ -1,0 +1,13 @@
+{
+    "require": {
+		"illuminate/database": "5.1.*",
+		"illuminate/view": "5.1.*",
+		"adambrett/shell-wrapper": "dev-master",
+		"mashape/unirest-php": "2.*"
+    },
+    "autoload": {
+        "classmap": [
+			"application/eloquent"
+        ]
+    }
+}
